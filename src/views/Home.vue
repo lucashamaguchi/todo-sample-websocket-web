@@ -15,8 +15,7 @@
             </el-button>
         </div>
         <todos-component
-            :todos="todos"
-            @update="handleUpdate" />
+            :todos="todos" />
     </div>
 </template>
 

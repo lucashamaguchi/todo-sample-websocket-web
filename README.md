@@ -1,4 +1,4 @@
-# todos-sample-web
+# todos-ws-sample-web
 
 ## Project setup
 ```

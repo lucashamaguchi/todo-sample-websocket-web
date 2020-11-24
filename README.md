@@ -1,5 +1,11 @@
 # todos-ws-sample-web
 
+## Check out the live example:
+ - [Todo Web WS](https://todos-ws.hamaguchi.site) ([Backend](https://websocket.api.hamaguchi.site/documentation))
+
+## Check out the backend source:
+ - [xhelpers-websocket-sample](https://github.com/lucashamaguchi/xhelpers-websocket-sample)
+
 ## Project setup
 ```
 yarn install
